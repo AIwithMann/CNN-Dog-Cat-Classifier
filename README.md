@@ -13,6 +13,6 @@ The model is a simple **CNN** with the following structure:
 - **2 fully connected layers** (to map pooled features to the final output).
 
 ### Instructions:
-1. Download the **dataset** and unzip it.
+1. Download the **dataset** from kaggle and unzip it.
 2. Specify the path to the dataset in `path_to_dataset` in the code.
 3. Run the model by simply executing the code below.
